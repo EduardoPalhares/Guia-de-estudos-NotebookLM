@@ -1,40 +1,65 @@
 # 📘 Guia de Estudos - Bootcamp Bradesco: IA Generativa, Dados e Prompts
 
 ## 🎯 Contexto e Objetivos
-Este repositório foi criado como parte do desafio prático **"Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM"**, do Bootcamp Bradesco. 
+Criei este repositório como parte do meu desafio prático na DIO: **"Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM"**. 
 
-O principal objetivo deste caderno temático é consolidar os conhecimentos adquiridos sobre Inteligência Artificial, desde os seus fundamentos históricos — como a cunhagem do termo por John McCarthy — até a aplicação prática e o uso de diferentes ferramentas de IA Generativa.
+Meu foco aqui foi mergulhar de cabeça no universo da Inteligência Artificial. Queria entender desde a base histórica — lá atrás, quando John McCarthy deu nome aos bois — até como a gente usa essas ferramentas generativas hoje em dia para facilitar a nossa rotina.
 
-Com este material, busco:
-- **Estruturar o conhecimento:** Organizar os conceitos de forma lógica para facilitar consultas futuras.
-- **Dominar a Engenharia de Prompts:** Praticar a criação de comandos eficientes para extrair os melhores resultados das IAs.
-- **Criar um "Assistente de Estudo":** Desenvolver uma base de conhecimento no NotebookLM capaz de me ajudar a ensinar, responder e debater sobre diversos tópicos do ecossistema de IA.
+Com esse material, meu objetivo é:
+- **Organizar a bagunça:** Deixar os conceitos bem estruturados para quando eu precisar consultar no futuro.
+- **Ficar bom nos Prompts:** Testar na prática como falar a "língua" das IAs para conseguir respostas que realmente ajudem.
+- **Ter um parceiro de estudos:** Usar o NotebookLM como um assistente que me ajuda a explicar temas complexos de um jeito simples.
 
 ## 📚 Curadoria de Fontes
-Para construir este caderno temático, selecionei 5 fontes diversificadas que oferecem uma base sólida teórica e prática sobre o tema:
+Escolhi a dedo estas 5 fontes para basear meu aprendizado. Elas cobrem desde a teoria pesada até o uso prático no dia a dia:
 
-1. **[Resumo Pessoal de Aprendizados](https://docs.google.com/document/d/1KlrE5vpzJ_88lok-nB6FtrTiI0rK9hrQDzxwCZWZuPQ/edit?usp=sharing):** Minhas próprias anotações documentando os principais insights e conceitos absorvidos durante as aulas do curso.
-2. **[A História da Inteligência Artificial (IBM)](https://www.ibm.com/br-pt/think/topics/history-of-artificial-intelligence):** Um artigo completo que detalha a evolução, os marcos e os pioneiros da IA ao longo das décadas.
-3. **[eBook: Jornada IA - Engenharia de Prompts (Curso em Vídeo)](https://www.cursoemvideo.com/wp-content/uploads/2024/10/eBook-Jornada-IA-Engenharia-de-Prompts-1.pdf):** Material aprofundado com técnicas, estruturas e boas práticas para a criação de prompts eficazes.
-4. **[10 Tipos de Inteligência Artificial: Níveis e Aplicações (TOTVS)](https://www.totvs.com/blog/inovacoes/tipos-inteligencia-artificial/):** Guia prático sobre as diferentes categorias de IA, suas capacidades e como são aplicadas no mercado.
-5. **[Aula Extra: Ferramentas de I.A na Prática (Canal Exame)](https://www.youtube.com/watch?v=DAI_qzOl-DI):** Vídeo focado no uso prático e no dia a dia das principais ferramentas de inteligência artificial generativa.
+1. **[Meus Anotados do Curso](https://docs.google.com/document/d/1KlrE5vpzJ_88lok-nB6FtrTiI0rK9hrQDzxwCZWZuPQ/edit?usp=sharing):** Minhas notas pessoais com os principais insights das aulas.
+2. **[História da IA (IBM)](https://www.ibm.com/br-pt/think/topics/history-of-artificial-intelligence):** Ótimo para entender como chegamos onde estamos hoje.
+3. **[eBook Engenharia de Prompts (Curso em Vídeo)](https://www.cursoemvideo.com/wp-content/uploads/2024/10/eBook-Jornada-IA-Engenharia-de-Prompts-1.pdf):** Um guia bem completo com as melhores práticas de escrita.
+4. **[Tipos de IA (TOTVS)](https://www.totvs.com/blog/inovacoes/tipos-inteligencia-artificial/):** Explica muito bem os diferentes níveis de inteligência.
+5. **[IA na Prática (Canal Exame)](https://www.youtube.com/watch?v=DAI_qzOl-DI):** Vídeo focado em ferramentas reais e produtividade.
 
 ## 🛠️ Engenharia de Prompts e "Cicatrizes"
-*(Nesta seção, documentarei os testes de prompts realizados no NotebookLM, mostrando a evolução da comunicação com a IA e os ajustes necessários para obter respostas precisas.)*
+Aqui é onde eu mostro o que aprendi "batendo a cabeça" com a IA lá no NotebookLM:
 
-**Exemplo de Teste 1: Criação do Resumo**
-- **Prompt Inicial:** [Inserir o primeiro prompt testado]
-- **Resultado e "Cicatriz":** [Descrever se a resposta foi boa, se faltou algo ou se veio muito complexa]
-- **Ajuste (Refinamento):** [Inserir como o prompt foi melhorado]
-- **Resultado Final:** [Descrever a melhora na resposta da IA]
+**Teste 1: O Resumo Inicial**
+Tentei pedir um resumo geral de cara. A IA foi bem precisa, mas acabou entregando um texto cheio de siglas complicadas (ANI, AGI, LLM).
+- **O que aprendi:** Percebi que um bom resumo precisa de um glossário de apoio, senão quem é iniciante acaba ficando perdido.
+
+**Teste 2: Simplificando o "Tecniquês"**
+Pedi para a IA criar um glossário explicando as coisas como se fosse para uma criança. 
+- **O que aprendi:** Limitar o formato (ex: "em apenas uma frase") ajudou muito a IA a ser direta e abandonar o papo difícil.
+
+**Teste 3: Prompts para o Futuro**
+Tentei criar comandos que eu pudesse usar em outros estudos. 
+- **O que aprendi:** Usar frameworks como o STAR ou pedir para a IA atuar como um professor faz toda a diferença na qualidade do que ela entrega.
 
 ## 📖 Miniguia de Estudo
 
-### Resumo do Assunto
-[Inserir o resumo final gerado sobre IA e Prompts]
+Para quem quiser ver o caderno que montei com essas fontes, o link é este:
+🔗 **[Meu NotebookLM Oficial](https://notebooklm.google.com/notebook/265ec462-0e71-4fc4-9c67-8f8cbb81f9c6)**
 
-### Glossário de Conceitos
-[Inserir lista de conceitos chaves, ex: LLM, Machine Learning, Token, etc., com definições curtas]
+---
 
-### Prompts Reutilizáveis
-[Listar prompts curtos e eficientes que podem ser usados para revisar o conteúdo depois]
+### 🗺️ Por onde começar? (Roteiro de Estudos)
+Se você caiu aqui agora, sugiro seguir essa ordem:
+1. Comece pela **História** (Teste de Turing e McCarthy) para entender o conceito.
+2. Depois, diferencie os **Níveis de IA** (o que temos hoje vs. o que sonhamos para o futuro).
+3. Entenda como elas aprendem (**Machine e Deep Learning**).
+4. Mergulhe na **IA Generativa** e nos modelos de linguagem.
+5. Finalize com **Engenharia de Prompts** para colocar tudo isso para trabalhar para você.
+
+### 📝 Resumo Rápido
+A IA saiu de robôs que apenas reagiam a comandos simples para modelos que hoje conseguem "conversar" e criar coisas novas (IA Generativa). O segredo para dominar isso não é só saber que a IA existe, mas saber como dar a instrução certa. Dominar os prompts pode te fazer ganhar muito tempo no dia a dia.
+
+### 📚 Glossário para não se perder
+- **ANI:** É a IA que faz uma coisa só e muito bem (como o GPS ou a Netflix).
+- **AGI:** IA do futuro que teria a mesma flexibilidade de aprendizado de um humano.
+- **Machine Learning:** O computador aprende com exemplos, não só com regras.
+- **LLM:** Modelos gigantes (tipo o ChatGPT) treinados com bilhões de textos.
+
+### ⚡ Dicas de Prompts para usar já
+- **Para aprender algo novo:** *"Me explique [CONCEITO] com uma analogia simples e depois me faça 2 perguntas para testar se eu entendi."*
+- **Para resumir:** *"Pegue este texto [LINK/TEXTO] e me dê os 3 pontos principais em tópicos curtos."*
+
+
